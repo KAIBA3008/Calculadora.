@@ -1,0 +1,10 @@
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\bin\Release\THE BAT-CALCULATOR.exe.config
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\bin\Release\THE BAT-CALCULATOR.exe
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\bin\Release\THE BAT-CALCULATOR.pdb
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE BAT-CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE_BAT_CALCULATOR.Form1.resources
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE_BAT_CALCULATOR.Properties.Resources.resources
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE BAT-CALCULATOR.csproj.GenerateResource.cache
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE BAT-CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE BAT-CALCULATOR.exe
+C:\Users\KAIBA\source\repos\THE BAT-CALCULATOR\THE BAT-CALCULATOR\obj\Release\THE BAT-CALCULATOR.pdb
